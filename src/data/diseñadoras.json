@@ -1,0 +1,41 @@
+[
+
+  {"Nombre":"Eileen Gray","Tipo de diseno":"Mobiliario","Nacionalidad uno":"Europa","Nacionalidad dos":"Europa","Anio de nacimiento":1878,"Anio de consagracion":1979,"Cantidad de obras":4,"Formacion academica uno":"Formacion tecnica","Formacion academica dos":"Formacion tecnica","Marido famoso":"No"},
+
+{"Nombre":"Lilly Reich","Tipo de diseno":"Mobiliario","Nacionalidad uno":"Europa","Nacionalidad dos":"Europa","Anio de nacimiento":1885,"Anio de consagracion":1930,"Cantidad de obras":8,"Formacion academica uno":"Autodidacta","Formacion academica dos":"Autodidacta","Marido famoso":"Si"},
+
+{"Nombre":"Marianne Brandt","Tipo de diseno":"Industrial","Nacionalidad uno":"Europa","Nacionalidad dos":"Europa","Anio de nacimiento":1893,"Anio de consagracion":1934,"Cantidad de obras":14,"Formacion academica uno":"Escuela de disenio","Formacion academica dos":"Escuela de disenio","Marido famoso":"No"},
+
+{"Nombre":"Aino Aalto","Tipo de diseno":"Mobiliario","Nacionalidad uno":"Europa","Nacionalidad dos":"Europa","Anio de nacimiento":1894,"Anio de consagracion":1930,"Cantidad de obras":3,"Formacion academica uno":"Universitaria","Formacion academica dos":"Universitaria","Marido famoso":"Si"},
+
+{"Nombre":"Clara Porset","Tipo de diseno":"Mobiliario","Nacionalidad uno":"Latinoamerica","Nacionalidad dos":"Latinoamerica","Anio de nacimiento":1895,"Anio de consagracion":1941,"Cantidad de obras":5,"Formacion academica uno":"Universitaria","Formacion academica dos":"Escuela de disenio","Marido famoso":"No"},
+
+{"Nombre":"Anni Albers","Tipo de diseno":"Textil","Nacionalidad uno":"Europa","Nacionalidad dos":"America del norte","Anio de nacimiento":1899,"Anio de consagracion":1949,"Cantidad de obras":22,"Formacion academica uno":"Escuela de disenio","Formacion academica dos":"Formacion tecnica","Marido famoso":"Si"},
+
+{"Nombre":"Alma Siedhoff - Buscher","Tipo de diseno":"Industrial","Nacionalidad uno":"Europa","Nacionalidad dos":"Europa","Anio de nacimiento":1899,"Anio de consagracion":1938,"Cantidad de obras":3,"Formacion academica uno":"Escuela de disenio","Formacion academica dos":"Escuela de disenio","Marido famoso":"No"},
+
+{"Nombre":"Charlotte Perriand","Tipo de diseno":"Interiores","Nacionalidad uno":"Europa","Nacionalidad dos":"Europa","Anio de nacimiento":1903,"Anio de consagracion":1938,"Cantidad de obras":10,"Formacion academica uno":"Universitaria","Formacion academica dos":"Universitaria","Marido famoso":"No"},
+
+{"Nombre":"Greta Magnusson","Tipo de diseno":"Mobiliario","Nacionalidad uno":"Europa","Nacionalidad dos":"America del norte","Anio de nacimiento":1906,"Anio de consagracion":1950,"Cantidad de obras":2,"Formacion academica uno":"Universitaria","Formacion academica dos":"Universitaria","Marido famoso":"No"},
+
+{"Nombre":"Ray Eames","Tipo de diseno":"Mobiliario","Nacionalidad uno":"America del norte","Nacionalidad dos":"America del norte","Anio de nacimiento":1912,"Anio de consagracion":1946,"Cantidad de obras":34,"Formacion academica uno":"Universitaria","Formacion academica dos":"Universitaria","Marido famoso":"Si"},
+
+{"Nombre":"Lina Bo Bardi","Tipo de diseno":"Mobiliario","Nacionalidad uno":"Europa","Nacionalidad dos":"Latinoamerica","Anio de nacimiento":1914,"Anio de consagracion":1980,"Cantidad de obras":10,"Formacion academica uno":"Universitaria","Formacion academica dos":"Universitaria","Marido famoso":"No"},
+
+{"Nombre":"Florence Knoll","Tipo de diseno":"Mobiliario","Nacionalidad uno":"America del norte","Nacionalidad dos":"America del norte","Anio de nacimiento":1917,"Anio de consagracion":1950,"Cantidad de obras":28,"Formacion academica uno":"Formacion tecnica","Formacion academica dos":"Formacion tecnica","Marido famoso":"Si"},
+
+{"Nombre":"Gae Aulenti","Tipo de diseno":"Mobiliario","Nacionalidad uno":"Europa","Nacionalidad dos":"Latinoamerica","Anio de nacimiento":1927,"Anio de consagracion":1972,"Cantidad de obras":7,"Formacion academica uno":"Formacion tecnica","Formacion academica dos":"Formacion tecnica","Marido famoso":"No"},
+
+{"Nombre":"Lella Vignelli","Tipo de diseno":"Industrial","Nacionalidad uno":"Europa","Nacionalidad dos":"Latinoamerica","Anio de nacimiento":1934,"Anio de consagracion":1960,"Cantidad de obras":12,"Formacion academica uno":"Formacion tecnica","Formacion academica dos":"Formacion tecnica","Marido famoso":"Si"},
+
+{"Nombre":"Dorothee Becker","Tipo de diseno":"Interiores","Nacionalidad uno":"Europa","Nacionalidad dos":"Europa","Anio de nacimiento":1938,"Anio de consagracion":1970,"Cantidad de obras":1,"Formacion academica uno":"Autodidacta","Formacion academica dos":"Autodidacta","Marido famoso":"Si"},
+
+{"Nombre":"Paula Scher","Tipo de diseno":"Grafico","Nacionalidad uno":"America del norte","Nacionalidad dos":"America del norte","Anio de nacimiento":1948,"Anio de consagracion":1984,"Cantidad de obras":16,"Formacion academica uno":"Formacion tecnica","Formacion academica dos":"Formacion tecnica","Marido famoso":"No"},
+
+{"Nombre":"Zaha Hadid","Tipo de diseno":"Mobiliario","Nacionalidad uno":"Medio oriente","Nacionalidad dos":"Europa","Anio de nacimiento":1950,"Anio de consagracion":1988,"Cantidad de obras":16,"Formacion academica uno":"Universitaria","Formacion academica dos":"Universitaria","Marido famoso":"No"},
+
+{"Nombre":"Patricia Urquiola","Tipo de diseno":"Mobiliario","Nacionalidad uno":"Europa","Nacionalidad dos":"Europa","Anio de nacimiento":1961,"Anio de consagracion":2006,"Cantidad de obras":3,"Formacion academica uno":"Universitaria","Formacion academica dos":"Formacion tecnica","Marido famoso":"No"},
+
+{"Nombre":"Iris van Herpen","Tipo de diseno":"Textil","Nacionalidad uno":"Europa","Nacionalidad dos":"Europa","Anio de nacimiento":1984,"Anio de consagracion":2015,"Cantidad de obras":1,"Formacion academica uno":"Universitaria","Formacion academica dos":"Universitaria","Marido famoso":"No"}
+
+]
