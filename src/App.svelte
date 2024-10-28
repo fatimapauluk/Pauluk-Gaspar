@@ -348,6 +348,7 @@ function getSize(cantidadObras) {
 
 <footer>
   <div class="footer">
+    <img src="./images/footer.svg" alt="Footer" />
   </div>
 </footer>
 
@@ -481,13 +482,13 @@ p {
   margin-top: 15px;
 }
 
-footer {
+footer img{
   width: 100%; 
   height: 250px; 
-  background-image: url('./images/footer.svg'); 
-  background-size: cover; 
+  /*background-image: url('./images/footer.svg'); */
+  /*background-size: cover; 
   background-repeat: no-repeat; 
-  background-position: center center; 
+  background-position: center center; */
   margin-top: 100px;
 }
 
